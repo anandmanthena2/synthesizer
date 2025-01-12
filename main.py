@@ -1,0 +1,1 @@
+print("this is the beginning of disrupting consulting")
